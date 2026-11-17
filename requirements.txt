@@ -1,0 +1,6 @@
+anthropic
+pandas
+python-dotenv
+requests
+streamlit
+reportlab
